@@ -1,7 +1,6 @@
-# csc413-SecondGame
+# Adventurer Game
 
 ## Student Name : Jimmy Kwan
-## Student ID : 916036828
 
 IDE: IntelliJ
 Java Version: 11.0.2
